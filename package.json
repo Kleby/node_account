@@ -1,0 +1,22 @@
+{
+  "name": "conta",
+  "version": "1.0.0",
+  "description": "projeto para cirar uma conta do banco",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/Kleby/node_account.git"
+  },
+  "keywords": [
+    "bank",
+    "banco",
+    "account",
+    "conta",
+    "node"
+  ],
+  "author": "João Kleby",
+  "license": "MIT"
+}
